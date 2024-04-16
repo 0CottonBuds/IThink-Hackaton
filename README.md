@@ -76,10 +76,19 @@ This hackathon repo is an open-source project released under the MIT license. Th
 
 A big "Thank you 🙏" to all our contributors! This hackathon is possible only because of their efforts.
 
-![Luisryan Sanisit](https://github.com/Yisaaaa.png)
-![Emil John Llanes](https://github.com/0CottonBuds.png)
-![Spencer Jireh Cebrian](https://github.com/spencerjirehcebrian.png)
-![Jay Arre Talosig](https://github.com/flexycode.png)
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 100px; height: 100px; margin: 10px;">
+    <img src="https://github.com/Yisaaaa.png" alt="Luisryan Sanisit" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 100px; height: 100px; margin: 10px;">
+    <img src="https://github.com/0CottonBuds.png" alt="Emil John Llanes" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 100px; height: 100px; margin: 10px;">
+    <img src="https://github.com/spencerjirehcebrian.png" alt="Spencer Jireh Cebrian" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 100px; height: 100px; margin: 10px;">
+    <img src="https://github.com/flexycode.png" alt="Jay Arre Talosig" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+</div>
 
 
