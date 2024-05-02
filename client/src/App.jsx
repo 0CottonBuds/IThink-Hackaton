@@ -1,6 +1,6 @@
-import { Button } from "@/components/ui/button";
-import AccountPage from "./pages/account/AccountPage";
+import AccountPage from "./pages/AccountPage";
 import { useState } from "react";
+import Home from "./pages/Home";
 
 function App() {
   // dummy data. the user api request will be called
@@ -13,12 +13,10 @@ function App() {
   });
 
   return (
-    <div>
-      {/* <div className="bg-slate-600">Hlloe</div>
-      <Button>Click me</Button> */}
-
-      <AccountPage user={user} />
-    </div>
+    <>
+      <Home user={user}></Home>
+      {/* <AccountPage user={user}/> */}
+    </>
   );
 }
 

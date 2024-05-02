@@ -1,8 +1,8 @@
 import React from "react";
-import SidebarLeft from "../../components/ui/SidebarLeft";
-import SidebarRight from "../../components/ui/SidebarRight";
+import SidebarLeft from "../components/SidebarLeft";
+import SidebarRight from "../components/SidebarRight";
 import { Avatar, AvatarImage } from "@/components/ui/avatar";
-import avatarFallbackImg from "../../../public/avatarFallback.png";
+import avatarFallbackImg from "/public/avatarFallback.png";
 import { Button } from "@/components/ui/button";
 
 const AccountPage = ({ user }) => {
@@ -28,7 +28,6 @@ const AccountPage = ({ user }) => {
   return (
     <div className="grid grid-cols-[25%_1fr_25%] h-screen bg-background text-foreground dark">
       <SidebarLeft />
-
       <div className="overflow-y-scroll no-scrollbar">
         <div className="pb-52 bg-"></div>
         <div className="relative pb-12 border-t-[1px] border-gray-400 flex ">
@@ -52,7 +51,6 @@ const AccountPage = ({ user }) => {
 
         <div className="pb-[1000px]"></div>
       </div>
-
       <SidebarRight user={user} />
     </div>
   );
