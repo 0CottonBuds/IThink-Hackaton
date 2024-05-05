@@ -84,6 +84,3 @@ A big "Thank you 🙏" to all our contributors! This hackathon is possible only 
 </div>
 
 
-Bat anlaki T_T 
-
-Ayun lumiit na
