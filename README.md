@@ -2,6 +2,16 @@
 
  ICSphere 🌐 is a social media platform that uses blockchain technologies that use scalability and security to build a social media app that is fully decentralised and censorship-resistant. It will incorporate features like decentralised identity, content moderation, and monetization using ICP tokens, Focuses on empowering users and enabling free speech and the innovative use of ICP’s blockchain features.
 
+## [Introduction](#introduction) 
+
+### 🧊 Team Name: [Artificial Ledger](https://github.com/flexycode/iThink-hackathon)  🇵🇭 
+### 🧊 Project Name: ICSphere 🌐
+### 🕵️ Team Member:  
+* ####  [Jay Arre Talosig](https://github.com/flexycode)  
+* ####  [Emil John Llanes](https://github.com/0CottonBuds)      
+* ####  [Spencer Jireh Cebrian](https://github.com/spencerjirehcebrian)    
+* ####  [Luisryan Sanisit](https://github.com/Yisaaaa)  
+
 ## 🚀 Features
 
 - User authentication (sign up and sign in)
