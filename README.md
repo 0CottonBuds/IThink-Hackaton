@@ -50,9 +50,7 @@ Despite these challenges, ICSphere aims to overcome them by leveraging blockchai
 
 ### 🔨 Back-end
 
-- Node.js
 - TypeScript
-- Express.js (for creating API endpoints)
 
 ## 👷 Installation
 
