@@ -12,6 +12,23 @@
 - Like/react to posts
 - News feed displaying posts from followed users
 
+## The Problem it Solves:
+
+ICSphere solves the problem of centralized social media platforms by providing a fully decentralized and censorship-resistant alternative. It leverages blockchain technologies to ensure scalability and security, empowering users with features like decentralized identity, content moderation, and monetization using ICP tokens. By enabling free speech and innovative use of ICP's blockchain features, ICSphere addresses the limitations and concerns associated with traditional social media platforms.
+
+## Challenges faced
+
+Developing a decentralized social media platform comes with several challenges. Some of the challenges that ICSphere may have faced include:
+
+* Scalability: Ensuring that the platform can handle a large number of users and interactions while maintaining performance and responsiveness.
+* Security: Implementing robust security measures to protect user data and prevent unauthorized access or tampering.
+* User adoption: Convincing users to switch from centralized social media platforms to a decentralized alternative and building a strong user base.
+* Regulatory compliance: Navigating the legal and regulatory landscape to ensure compliance with relevant laws and regulations.
+* Monetization: Designing a sustainable monetization model that rewards content creators and incentivizes user participation while maintaining the decentralized nature of the platform.
+
+Despite these challenges, ICSphere aims to overcome them by leveraging blockchain technologies and focusing on user empowerment and free speech.
+
+
 ## 💻 Technologies Used
 
 ### ✨ Front-end
